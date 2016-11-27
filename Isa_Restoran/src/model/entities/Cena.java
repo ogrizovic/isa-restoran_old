@@ -12,5 +12,9 @@ public class Cena {
    private Float glavnica;
    private Float pdv;
    private Float popust;
+   
+   public Cena() {
+	// TODO Auto-generated constructor stub
+}
 
 }
